@@ -42,7 +42,7 @@
             <div class="card-body d-flex flex-column">
               <p class="categoria">${produto.category}</p>
 
-              <h5 class="card-title">${produto.title}</h5>
+              <p class="card-title">${produto.title}</p>
 
               <p class="preco mt-auto">
                 R$ ${produto.price.toFixed(2)}
