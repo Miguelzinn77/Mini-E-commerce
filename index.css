@@ -1,0 +1,31 @@
+    body {
+      background: #f5f6fa;
+    }
+
+    .produto-card {
+      height: 100%;
+    }
+
+    .produto-img {
+      height: 180px;
+      object-fit: contain;
+      padding: 20px;
+      background: white;
+    }
+
+    .produto-detalhe-img {
+      max-height: 320px;
+      object-fit: contain;
+    }
+
+    .preco {
+      font-size: 1.3rem;
+      color: #198754;
+      font-weight: 700;
+    }
+
+    .categoria {
+      font-size: 0.8rem;
+      color: #6c757d;
+      text-transform: uppercase;
+    }
